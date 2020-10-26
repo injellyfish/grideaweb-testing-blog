@@ -2,11 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>Gridea web 博客</title>
-    <updated>2020-10-26T09:05:02.287Z</updated>
+    <updated>2020-10-26T09:13:24.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="self" href="atom.xml"/>
-    <subtitle>Hello world!</subtitle>
+    <subtitle>Hello world!
+这里是 Gridea web 版的测试博客（非官方）</subtitle>
     <logo>images/avatar.png</logo>
+    <icon>https://static.gridea.dev/evelyn/50eb6361-d0be-4d93-bb67-b8366bf65d90.png</icon>
     <rights>All rights reserved 2020, Gridea web 博客</rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
